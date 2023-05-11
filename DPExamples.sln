@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDP", "Abstra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDP", "BuilderDP\BuilderDP.csproj", "{C6325C2B-A027-4BA8-B734-87A60E22E6A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDP", "FactoryDP\FactoryDP.csproj", "{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C6325C2B-A027-4BA8-B734-87A60E22E6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6325C2B-A027-4BA8-B734-87A60E22E6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6325C2B-A027-4BA8-B734-87A60E22E6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
