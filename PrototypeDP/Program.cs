@@ -35,7 +35,7 @@ namespace PrototypeDP
         static void Main(string[] args)
         {
             Product lcdTv = new Product(1000, "ABC Lcd TV 106", 1000);
-            //bunu ürettikten sonra yarın öbürgün bunun seri üretimine geçmek istediğimizi düşünelim.
+            //bunu ürettikten sonra gelecekte bunun seri üretimine geçmek istediğimizi düşünelim.
 
             Product lcdTv2 = lcdTv.Clone() as Product;
             Console.WriteLine("lcdTv Orijinal:"+lcdTv.ProductId+" "+lcdTv.Name+" "+lcdTv.ListPrice+"\n lcdTv2 Kopyası: "+lcdTv2.ProductId+" "+lcdTv2.Name+" "+lcdTv2.ListPrice);
