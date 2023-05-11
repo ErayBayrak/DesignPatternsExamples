@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPExamples", "DPExamples\DPExamples.csproj", "{C6B7B7A9-ABF5-478A-AD3A-54528E9D656C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPExamples", "DPExamples\DPExamples.csproj", "{C6B7B7A9-ABF5-478A-AD3A-54528E9D656C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDP", "AbstractFactoryDP\AbstractFactoryDP.csproj", "{DA03F2A8-3FE2-4E2B-93CF-AD3F20D7CA6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryDP", "AbstractFactoryDP\AbstractFactoryDP.csproj", "{DA03F2A8-3FE2-4E2B-93CF-AD3F20D7CA6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDP", "BuilderDP\BuilderDP.csproj", "{C6325C2B-A027-4BA8-B734-87A60E22E6A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderDP", "BuilderDP\BuilderDP.csproj", "{C6325C2B-A027-4BA8-B734-87A60E22E6A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDP", "FactoryDP\FactoryDP.csproj", "{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDP", "FactoryDP\FactoryDP.csproj", "{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDP", "PrototypeDP\PrototypeDP.csproj", "{680036DC-1F6C-4E4B-86E1-5D6456A39D81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680036DC-1F6C-4E4B-86E1-5D6456A39D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680036DC-1F6C-4E4B-86E1-5D6456A39D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680036DC-1F6C-4E4B-86E1-5D6456A39D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680036DC-1F6C-4E4B-86E1-5D6456A39D81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
