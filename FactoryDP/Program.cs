@@ -1,5 +1,5 @@
 ﻿using System;
-
+//FACTORY DESIGN PATTERN
 //Factory Design Pattern, nesne yaratma işlemi için bir arayüz tasarlanmasını gerektirir ve alt sınıfların nesne üretmesine olanak sağlar.
 //Ayrıca, hangi sınıf nesnesinin oluşacağını da alt sınıflar kendileri belirler. Böylece nesne yaratma işlemini soyutlaştırır. 
 namespace FactoryDP
