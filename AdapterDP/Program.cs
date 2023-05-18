@@ -1,5 +1,12 @@
 ﻿using System;
 //ADAPTER DESIGN PATTERN
+//Adapter tasarım kalıbı bir sistem parçasının, var olan başka bir sisteme adapte edilmesini ve o sistem içerisinde kullanılabilmesini sağlayan bir kalıptır.
+//Adaptör kalıbının özelliklerinden bazıları şunlardır:
+//Bir sınıfın arayüzünü istemcinin istediği yeni bir arayüze dönüştürme işlemi yapar.
+//Birbiriyle uyumsuz arayüzleri olan sınıfların birbiriyle çalışmasını sağlar.
+//Var olan sınıfı yeni bir arayüzle sarmalar.
+//Eski bir bileşeni yeni oluşturulan sisteme entegre eder.
+
 namespace AdapterDP
 {
     public class Program
