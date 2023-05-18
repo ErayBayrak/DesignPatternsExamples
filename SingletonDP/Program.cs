@@ -1,4 +1,5 @@
 ﻿using System;
+//SINGLETON DESIGN PATTERN
 //Creational design patterns grubuna ait singleton design pattern bir nesnenin application pool kapanana kadar bir kez üretilmesini ve tek bir instance’ının olmasını kontrol altında tutar.
 //Aynı zamanda bu nesne sınıf dışından da erişilebilir olur. Bir sınıfın bir anda sadece bir örneğinin olması istenildiği zamanlarda kullanılır.
 //Örneğin veritabanı uygulamalarında bir anda bir bağlantı nesnesinin olması sistem kaynaklarının verimli bir şekilde kullanılmasını sağlar.
