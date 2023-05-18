@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderDP", "BuilderDP\Buil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDP", "FactoryDP\FactoryDP.csproj", "{9B81B0C3-3F75-481A-AA96-0C86F973CCB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDP", "PrototypeDP\PrototypeDP.csproj", "{680036DC-1F6C-4E4B-86E1-5D6456A39D81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeDP", "PrototypeDP\PrototypeDP.csproj", "{680036DC-1F6C-4E4B-86E1-5D6456A39D81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDP", "SingletonDP\SingletonDP.csproj", "{596D0719-18A2-4AE4-9241-18A23244045D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDP", "SingletonDP\SingletonDP.csproj", "{596D0719-18A2-4AE4-9241-18A23244045D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDP", "AdapterDP\AdapterDP.csproj", "{7C0D87D7-A88F-4831-9E56-4F04F921808A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{596D0719-18A2-4AE4-9241-18A23244045D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{596D0719-18A2-4AE4-9241-18A23244045D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{596D0719-18A2-4AE4-9241-18A23244045D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0D87D7-A88F-4831-9E56-4F04F921808A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0D87D7-A88F-4831-9E56-4F04F921808A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0D87D7-A88F-4831-9E56-4F04F921808A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0D87D7-A88F-4831-9E56-4F04F921808A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
